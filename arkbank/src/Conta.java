@@ -8,6 +8,9 @@ public class Conta {
 	int numero;	
 	// Atributo que representa o nome do titular da conta.
 	String titular;
-
+	
+	void deposita(double valor) {
+		this.saldo = this.saldo + valor;
+	}
 }
 	
