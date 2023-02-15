@@ -10,9 +10,18 @@ public class Conta {
 	String titular;
 	
 	//Método criado
-	void deposita(double valor) {
+	public void deposita(double valor) {
 		// Adiciona o valor passado como parâmetro ao saldo atual da conta
 		this.saldo = this.saldo + valor;
+	}
+	
+	public boolean saca(double valor) {
+		if (this.saldo >= valor) {
+			this.saldo = this.saldo - valor;
+			return true;
+		}else {
+			return false;
+		}
 	}
 }
 	
