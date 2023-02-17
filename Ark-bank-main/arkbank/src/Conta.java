@@ -1,3 +1,5 @@
+package arkbank.src;
+
 public class Conta {
 	
 	// Atributo que representa o saldo disponível na conta.

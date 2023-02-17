@@ -1,3 +1,5 @@
+package arkbank.src;
+
 public class TestedeReferencias {
 	public static void main(String[] args) {
 		// Cria uma instância da classe Conta e atribui o valor 300 ao seu saldo
