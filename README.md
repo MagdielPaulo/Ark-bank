@@ -7,7 +7,7 @@ Este é um sistema bancário simples, escrito em Java, que permite aos usuários
 ## **Requisitos**
 
 - Java 8 ou posterior
-- IDE de sua escolha (Ex.: Eclipse, IntelliJ IDEA, Netbeans)
+- IDE de sua escolha (Ex.: Eclipse, IntelliJ IDEA, Netbeans!)
 
 ## **Como usar**
 
