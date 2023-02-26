@@ -20,7 +20,7 @@ Este é um sistema bancário simples, escrito em Java, que permite aos usuários
 - **`Conta.java`**: Classe que representa uma conta bancária (ArkBank)
 - **`TestaMetodo.java`**: Classe que testa o método **`deposita`** da classe **`Conta`**
 
-## **Contribua**
+## **Contribua você também!**
 
 Este é um projeto de exemplo e há muito espaço para melhorias e expansões para o projeto. Se você deseja contribuir, sinta-se à vontade para abrir uma issue ou enviar um pull request com suas alterações.
 
