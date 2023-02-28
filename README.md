@@ -1,13 +1,13 @@
 # Sistema Bancário - Ark Bank
 
-Status: Developing ⚠️
+Status: Developing ⚠️ !
 
 Este é um sistema bancário simples, escrito em Java, que permite aos usuários criar contas bancárias, fazer depósitos e verificar seus saldos.
 
 ## **Requisitos**
 
 - Java 8 ou posterior
-- IDE de sua escolha (Ex.: Eclipse, IntelliJ IDEA, Netbeans)
+- IDE de sua escolha (Ex.: Eclipse, IntelliJ IDEA, Netbeans!)
 
 ## **Como usar**
 
@@ -17,12 +17,12 @@ Este é um sistema bancário simples, escrito em Java, que permite aos usuários
 
 ## **Arquivos importantes**
 
-- **`Conta.java`**: Classe que representa uma conta bancária
-- **`TestaMetodo.java`**: Classe que testa o método **`deposita`** da classe **`Conta`**
+- **`Conta.java`**: Classe que representa uma conta bancária (ArkBank)
+- **`TestaMetodo.java`**: Classes que testa o método **`deposita`** da classe **`Conta`**
 
-## **Contribua**
+## **Contribua você também!**
 
-Este é um projeto de exemplo e há muito espaço para melhorias e expansões. Se você deseja contribuir, sinta-se à vontade para abrir uma issue ou enviar um pull request com suas alterações.
+Este é um projeto de exemplo e há muito espaço para melhorias e expansões para o projeto. Se você deseja contribuir, sinta-se à vontade para abrir uma issue ou enviar um pull request com suas alterações.
 
 ## **Licença**
 
