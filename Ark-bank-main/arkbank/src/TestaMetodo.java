@@ -2,14 +2,14 @@ package arkbank.src;
 
 public class TestaMetodo {
 	public static void main(String[] args) {
-		Conta contaBank = new Conta();
-		contaBank.saldo = 100;
-		contaBank.deposita(50);
-		System.out.println(contaBank.saldo);
+		Conta contaDoPaulo = new Conta();
+		contaDoPaulo.saldo = 100;
+		contaDoPaulo.deposita(50);
+		System.out.println(contaDoPaulo.saldo);
 		
 		
-		boolean conseguiuRetirar = contaBank.saca(20);
-		System.out.println(contaBank.saldo);
+		boolean conseguiuRetirar = contaDoPaulo.saca(20);
+		System.out.println(contaDoPaulo.saldo);
 		System.out.println(conseguiuRetirar);
 	}
 }
