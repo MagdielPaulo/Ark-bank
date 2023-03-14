@@ -1,6 +1,6 @@
 # Sistema Bancário - Ark Bank
 
-Status: Developing ⚠️ !
+Status: Developing ⚠️ !!!!!
 
 Este é um sistema bancário simples, escrito em Java, que permite aos usuários criar contas bancárias, fazer depósitos e verificar seus saldos.
 
